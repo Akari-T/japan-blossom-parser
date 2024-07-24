@@ -4,4 +4,4 @@
 
 **Motivation**: To create a data cleaner/parser for Japan's Biological Observations to prepare the data for analysis. 
 
-**Inspiration from** [Japanse Cherry Blosssom Data](https://www.kaggle.com/datasets/ryanglasnapp/japanese-cherry-blossom-data/data).
+**Inspiration from** [Japanse Cherry Blosssom Data](https://www.kaggle.com/datasets/ryanglasnapp/japanese-cherry-blossom-data/data) by Ryan Glasnapp.
